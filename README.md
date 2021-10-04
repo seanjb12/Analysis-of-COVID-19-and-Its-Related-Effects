@@ -245,8 +245,6 @@ natl_unemployment_df = natl_unemployment_df[natl_unemployment_df['Year'] != 2019
 
 ###########################################################################################################################
 
-# Sean
-
 # Munge covid cases data
 # Add column with only month number
 cases_df['month']=pd.DatetimeIndex(cases_df['submission_date']).month
