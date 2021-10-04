@@ -11,7 +11,7 @@ Created on Wed Sep 30 20:39:36 2020
         Retail Mobility Change from Baseline (%)
         Oil Price (WTI) **national level only**
 
-@authors: Zach Bannon, Sean BoxenBaum, Austin York
+@authors: Zach Bannon, Sean Boxenbaum, Austin York
 """
 
 # Establishes input information for local files.
